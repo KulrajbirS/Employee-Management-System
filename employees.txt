@@ -1,0 +1,5 @@
+Andy Pak, 38, Software Engineer, 9-2-2016, 35.5
+Caleen Brook, 29, Project Manager, 4-28-2018, 45.25
+Patrica Novick, 73, Machine Learning Engineer, 1-1-2000, 54.05
+Pretty Handsome, 12, President, 3-24-2005, 65.0
+April Guo, 55, AI Designer, 12-25-2019, 47.30
